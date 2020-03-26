@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CloudShop</string>
+    <string name="buscar">Search the Internet</string>
+    <string name="comprar">Buy</string>
+    <string name="megusta">LIKE</string>
+    <string name="precio">Price</string>
+    <string name="precioTot">Price</string>
+    <string name="info">"**CloudShop** is the online store of computer components "+
+                        "Best valued by users. Find what you need and buy it" +
+                        "Looking for the best deals. Enjoy your shopping!" +
+                        "Nr. Contact: +34 642 200 428"</string>
+    <string name="elim">Product deleted!</string>
+</resources>

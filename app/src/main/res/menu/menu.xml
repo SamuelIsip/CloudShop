@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_action_carrito"
+        android:title="Carrito"
+        android:id="@+id/carrito"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/aniadir"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Aniadir"
+        android:visible="false"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/buscar"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/buscar"
+        app:showAsAction="never"></item>
+</menu>

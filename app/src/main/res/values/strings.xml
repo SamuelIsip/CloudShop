@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CloudShop</string>
+    <string name="precio">Precio</string>
+    <string name="comprar">Comprar</string>
+    <string name="megusta">ME GUSTA </string>
+    <string name="buscar">Buscar en Internet</string>
+    <string name="precioTot">Precio : 0€</string>
+    <string name="info">"**CloudShop** es la tienda online de componentes informáticos" +
+                        " mejor valorada por los usuarios. Busque lo que necesite y cómprelo" +
+                        " buscando las mejores ofertas. ¡Que disfrute de sus compras!" +
+                        " Nr. Contacto: +34 642 200 428"</string>
+    <string name="elim">¡Producto Eliminado!</string>
+</resources>
